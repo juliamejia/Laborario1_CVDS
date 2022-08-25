@@ -37,6 +37,15 @@ Ingeniería de Sistemas | 2019-2023
 3. Portugués
 
 
+# Learning git branching
+
+## Main
+![image.png](main.png)
+
+
+## Remote
+![image.png](remote.png)
+
 
 
 
