@@ -3,7 +3,8 @@
 print("Hola a todos , esta soy yo")
 ```
 # JULIA MARCELA MEJIA PEREZ  
-*estudiante de ingeniería de sistemas*  
+![](btbt.jpg)  
+*estudiante de ingeniería de sistemas*   
 **edad:** 21 años  
 
 
